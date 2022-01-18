@@ -11,3 +11,4 @@ la base de datos vine dentro de este mismo repositorio, su nombre es "accesovehi
 
 Es necesario registrar el usuario: empleado01 con contraseña:GGLp0s31d0n para que se pueda hacer conexion con la base de datos
 
+Para acceder a la página del sistema introducir la dirección: localhost/accesodevehiculos/home.php en la barra de direcciones del navegador 
