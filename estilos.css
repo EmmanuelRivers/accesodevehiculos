@@ -1,0 +1,100 @@
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(120deg, #008FBF, #0F3A71);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+#acciones{
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+    top: 0; /* Posicionamos la cabecera pegada arriba */
+	height: 50px;
+	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+	background-color: #2d2d2d;
+	padding-top:5px;
+	text-align: center;
+}
+
+/*---------------------------estilos home---------------------------*/
+#divhome{
+    padding-top: 15%;
+}
+#btnshome{
+    text-align: center;
+}
+#formhome {
+    width: 35%;  /*Ancho*/
+    height: 100%; /*Alto*/
+    background: #f1f1f1; /*Color de fondo*/
+    position: relative; 
+    border-radius: 10px;
+    padding: 20px 40px;
+    border-bottom: 100px;
+    margin: auto;
+}
+
+/*---------------------------estilos entrada---------------------------*/
+#divregistro{
+	padding-top: 40px;
+}
+#formregistro {
+   	width: 40%;  /*Ancho*/
+    height: 100%; /*Alto*/
+    background: #f1f1f1; /*Color de fondo*/
+    position: relative; 
+    border-radius: 10px;
+    padding: 20px 40px;
+    border-bottom: 100px;
+    margin: auto;
+}
+#divtipovehiculo{
+	width: 100%;
+}
+#botonera{
+	text-align: center;
+}
+
+/*---------------------------estilos salida---------------------------*/
+#divsalida{
+    padding-top: 40px;
+}
+#formsalida {
+    width: 40%;  /*Ancho*/
+    height: 100%; /*Alto*/
+    background: #f1f1f1; /*Color de fondo*/
+    position: relative; 
+    border-radius: 10px;
+    padding: 20px 40px;
+    border-bottom: 100px;
+    margin: auto;
+}
+#divbtncalcular{
+    text-align: center;
+}
+#divtotal{
+    display: none;
+    text-align: center;
+}
+
+/*---------------------------estilos cobro---------------------------*/
+#divcobro{
+    padding-top: 40px;
+}
+#formcobro {
+    width: 30%;  /*Ancho*/
+    height: 100%; /*Alto*/
+    background: #f1f1f1; /*Color de fondo*/
+    position: relative; 
+    border-radius: 10px;
+    padding: 20px 40px;
+    border-bottom: 100px;
+    margin: auto;
+}
+#btncobro{
+    width: 100%;
+    text-align: center;
+}
+
+/*---------------------------estilos informe---------------------------*/
+
