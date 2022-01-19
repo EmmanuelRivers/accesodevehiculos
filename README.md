@@ -15,7 +15,8 @@ Para acceder a la página del sistema introducir la dirección: localhost/acceso
 
 ¿QUÉ ES LO QUE HACE?
 - Primero la página da al usuario las opciones disponibles a realizar (registrar entrada, registrar salida, informe)
+- Se registra la entrada de vehículos con su placa
 
 ¿QUÉ QUEDÓ PENDIENTE?
-- Corregir error al registrar una mátricula de salida cuando dentro sus caractéres hay una letra
+- Corregir error al registrar una placa de salida cuando dentro sus caractéres hay una letra
 - Mostrar los informes
